@@ -13,3 +13,7 @@
     python manage.py  migrate
     
     python manage.py runsevrer
+
+
+### Run Tests :
+    python manage.py test
